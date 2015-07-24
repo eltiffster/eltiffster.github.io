@@ -1,0 +1,568 @@
+@@ -0,0 +1,568 @@
+<!DOCTYPE html>
+	<html class="sl-root decks export loaded ua-phantomjs reveal-viewport theme-font-montserrat theme-color-black-blue">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>hdtmt: Slides</title>
+		<meta name="description" content="Slides">
+
+			<style>@import url("https://s3.amazonaws.com/static.slid.es/fonts/montserrat/montserrat.css");@import url("https://s3.amazonaws.com/static.slid.es/fonts/opensans/opensans.css");@import url("https://s3.amazonaws.com/static.slid.es/fonts/lato/lato.css");@import url("https://s3.amazonaws.com/static.slid.es/fonts/asul/asul.css");@import url("https://s3.amazonaws.com/static.slid.es/fonts/josefinsans/josefinsans.css");@import url("https://s3.amazonaws.com/static.slid.es/fonts/league/league_gothic.css");@import...(line truncated)...
+ * Main styles for Slides
+ *
+ * @author Hakim El Hattab
+ */*{-moz-box-sizing:border-box;box-sizing:border-box}html,body{padding:0;margin:0;color:#252525;font-family:"Open Sans", Helvetica, sans-serif;font-size:16px}html:before,body:before{content:'' !important}html{-webkit-font-smoothing:subpixel-antialiased !important}html.sl-root:not(.loaded) *{-webkit-transition:none !important;transition:none !important}body{overflow-y:scroll}body>*:not(.reveal){font-family:"Open Sans", Helvetica, sans-serif}html,#container{background-color:#eee}#container{position:relative;...(line truncated)...
+ * reveal.js
+ * http://lab.hakim.se/reveal-js
+ * MIT licensed
+ *
+ * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
+ */html,body,.reveal div,.reveal span,.reveal applet,.reveal object,.reveal iframe,.reveal h1,.reveal h2,.reveal h3,.reveal h4,.reveal h5,.reveal h6,.reveal p,.reveal blockquote,.reveal pre,.reveal a,.reveal abbr,.reveal acronym,.reveal address,.reveal big,.reveal cite,.reveal code,.reveal del,.reveal dfn,.reveal em,.reveal img,.reveal ins,.reveal kbd,.reveal q,.reveal s,.reveal samp,.reveal small,.reveal strike,.reveal strong,.reveal sub,.reveal sup,.reveal tt,.reveal var,.reveal b,.reveal u,.reveal center...(line truncated)...
+</style>
+		<meta content="authenticity_token" name="csrf-param" />
+<meta content="bg+4gnLD/pJA9zqiER8pK+OiQCXD8un6R4qJqc+eaDs=" name="csrf-token" />
+		<style id="user-css-output" type="text/css"></style>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 179px; height: auto;" data-block-id="20be1c2040f93678b9ea59e7ae906359"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" dir="ui" style="color: rgb(224, 102, 102); z-index: 10; text-align: center;" data-has-custom-html="">
+<h1 style="line-height: 1.2em;">How Did They Make<br>That </h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 371px;" data-block-id="064b11335b2ee7b81bf1a94f8d4c5854"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; text-align: center;" data-has-custom-html="">
+<h3>For Undergraduate Projects</h3>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 521px;" data-block-id="7efa85ef8b653442e725c9f22589b273"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; color: rgb(255, 255, 255); text-align: center;" dir="ui">
+<p>by Tiffany Chan</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 279px; top: 266px;" data-block-id="8b50d84dc48981b3b7c94c5129161fc9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 14; color: rgb(109, 158, 235);" data-has-custom-html="">
+<h1>?</h1>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 180px; top: 560px;" data-block-id="4d822fa62943daa538fcf6eb94d27eb6"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; color: rgb(255, 255, 255); text-align: center;" dir="ui">
+<p id="byline"><span style="font-size:0.7em"><a href="http://thisistiffanychan.com/" target="_blank">Website</a> | <a href="https://twitter.com/ElTiffster" target="_blank">Twitter</a></span></p>
+</div></div></section><section>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 800px; left: 80px; top: 85px;" data-block-id="a38b7d01db7d274fd68883c3ff4485d0"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 11; font-size: 85%;">
+<p style="text-align:left">This is an adaptation of Miriam Posner's original <a href="http://miriamposner.com/blog/how-did-they-make-that/" target="_blank">"How Did They Make That?"</a> post. It is intended for undergraduates, using example projects that were done by undergraduates or involved undergraduate collaboration.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 800px; left: 80px; top: 249px;" data-block-id="6fb5884acacc075301677424a8ecc20d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; text-align: left; font-size: 85%;" data-has-custom-html="" dir="ui">
+<p>What's in here?</p>
+
+<ul>
+	<li><a href="#/2" target="_blank">3D modelling</a></li>
+	<li><a href="#/3" target="_blank">Digital exhibit</a></li>
+	<li><a href="#/4" target="_blank">Mapping project</a></li>
+	<li><a href="#/5" target="_blank">Timeline</a></li>
+	<li><a href="#/6" target="_blank">Digital edition</a></li>
+	<li><a href="#/7" target="_blank">Long-form, media-rich narrative</a></li>
+	<li><a href="#/8" target="_blank">Computer-aided text analysis</a></li>
+	<li><a href="#/9" target="_blank">Data visualization</a></li>
+	<li><a href="#/10" target="_blank">More Resources</a></li>
+</ul>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 31px; height: auto;" data-block-id="87648340e1aa7561301888c8530b5068"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 107%;" dir="ui" data-has-custom-html="">
+<h2><a href="http://www.whatjanesaw.org/" target="_blank"><span id="title-text">3D Model: What Jane Saw</span></a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 171px; height: auto;" data-block-id="7627a7a5b469fae9c11d7c86f046730d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 93%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 170.5px;" data-block-id="fb2b358b6b05463ebf12f528cde1077e"><a class="sl-block-content" style="z-index: 11;" href="http://www.whatjanesaw.org/" target="_blank"><img data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1586634/WJS-f.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 277px; height: auto;" data-block-id="598f6b29586f004df6a47b8694ebe48a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 410px; height: auto;" data-block-id="4ca1196a967b74b02acc4de93c59af3a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;">
+<p><strong>Get started</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 488px; height: auto;" data-block-id="25d31b273dcb4c872fd8ba8ea2570057"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 15; text-align: left; font-size: 93%;">
+<p><strong>Alternatives</strong></p>
+</div></div>
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 433px; left: 0px; top: 207px;" data-block-id="5363a44c94177c82de650b4e1bd7943c"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24; font-size: 67%;">
+<p style="text-align:left"><span style="font-size:1.0em">A 3D reconstruction of an 1813 portraiture exhibit attended by Jane Austen.</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 433px; left: 0px; top: 313px;" data-block-id="7c1eda26f8938c8e5e044150a3ed7a6d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25; font-size: 67%; text-align: left;">
+<p><a href="http://www.sketchup.com/" target="_blank">SketchUp</a> to model the space so you can "hang" paintings in their spots (see <a href="http://www.whatjanesaw.org/about.php" target="_blank">video</a> on "About" page).</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 433px; left: 0px; top: 446px;" data-block-id="db4e45cdc35fa424a9c10de3b80b7767"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="https://www.youtube.com/playlist?list=PLF001616C0ADF4245" target="_blank">"Getting Started with Sketchup"</a></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 444px; left: 0px; top: 524px;" data-block-id="1e2490a753d5bf82ceb8a4d977cf8886"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 27; font-size: 67%; text-align: left;">
+<ul>
+	<li style="text-align: left;"><span style="font-size:1.0em">Modellers also use <a href="http://www.autodesk.com/education/free-software/maya" target="_blank">Maya</a>, <a href="http://lifehacker.com/5922767/intro-to-3d-modeling-lesson-1-getting-to-know-your-software?tag=nightschool" target="_blank">Rhino</a>, <a href="http://www.blender.org/download/" target="_blank">Blender</a></span></li>
+	<li style="text-align: left;">
+<span style="font-size:1.0em">Video game software</span>
+	<ul>
+		<li style="text-align: left;"><span style="font-size:1.0em"><a href="http://www.crytek.com/cryengine/cryengine3/overview" target="_blank">CRYENGINE</a> for <a href="http://journalofdigitalhumanities.org/3-1/pudding-lane-recreating-seventeenth-century-london/" target="_blank">"Off The Map"</a></span></li>
+		<li style="text-align: left;">
+<a href="https://minecraft.net/" target="_blank">Minecraft</a><span style="color:rgb(255, 255, 255); font-size:17.1000003814697px; text-align:left"> for </span><a href="http://www.hullcraft.com/" target="_blank">"Hullcraft"</a>
+</li>
+	</ul>
+	</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 462px; left: 498px; top: 538px;" data-block-id="b27eb29028090879f280c0b75524e49f"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28; font-size: 50%; text-align: left;" dir="ui">
+<p><span style="font-size:1.0em">Janine Barchas (faculty), Michelle Lawrence-Carlin, Megha Vaidya, Nick Kinnaird, Katie Tiller et al.</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 462px; left: 498px; top: 581px;" data-block-id="49426b0c643d3451c6a21688c2ecf63a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 30; font-size: 50%; text-align: left;" dir="ui">
+<p><span style="color:rgb(255, 255, 255)">University of Texas at Austin</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 462px; left: 498px; top: 604px;" data-block-id="9dba7f70d29932e686eca5e35ad02d32"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; font-size: 50%; text-align: left;" dir="ui">
+<p><span style="color:rgb(255, 255, 255); font-size:13.5px">Undergrad collaboration through </span><a href="http://www.utexas.edu/cola/student-affairs/student-programs/undergrad/urprograms/Undergraduate-Research-Apprenticeship-Program.php" target="_blank">Undergrad Research Apprenticeship</a><span style="color:rgb(255, 255, 255); font-size:13.5px"> and </span><a href="http://www.utexas.edu/cola/laits/digital-media-services/Student%20Technology%20Assistants.php" target="_blank">LAITS Student Technology Assis...(line truncated)...
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 31px; height: auto;" data-block-id="5e45527a8f340c4230b0a48cb7fb7d61"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 107%;" dir="ui" data-has-custom-html="">
+<h2><a href="http://goinnorth.org/" target="_blank"><span>Digital Exhibit: Goin' North</span></a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 168px; height: auto;" data-block-id="496c249473ccf7c2552687a84740e9ad"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 93%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 168px;" data-block-id="b65b70e959c3f8df8d6fecef36ec5305"><a class="sl-block-content" style="z-index: 11;" href="http://goinnorth.org/" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589093/ezgif.com-video-to-gif.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 304px; height: auto;" data-block-id="d0eb9b7d567531284e313155bd2e7aea"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 467px; height: auto;" data-block-id="d8eec3f197e78c2251a69811adb85ad2"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;">
+<p><strong>Get started</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 573px; height: auto;" data-block-id="8ff2a3f2c64ac84a9af19f36c5762eee"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 15; text-align: left; font-size: 93%;">
+<p><strong>Alternatives</strong></p>
+</div></div>
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 204px;" data-block-id="8a2410533e2dc0e22a60e2484f4c57c0"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24; font-size: 67%;">
+<p style="text-align:left">Exhibit-archive of oral history interviews, images, newspaper articles and other primary sources about the <a href="https://en.wikipedia.org/wiki/Great_Migration_(African_American)" target="_blank">Great Migration</a>.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 422px; left: 0px; top: 340px;" data-block-id="5352dedd62401a5d21784a36459c44bd"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25; font-size: 67%; text-align: left;">
+<ul>
+	<li>
+<a href="http://omeka.org/" target="_blank">Omeka.org</a> , but you can also use <a href="http://www.omeka.net/" target="_blank">Omeka.net</a> (<a href="https://docs.google.com/spreadsheets/d/1Rli96QJ3qR1tf8DHCSJ9RNwbBTyYdbjJSP48BRC08TU/pub?hl=en_US&amp;hl=en_US&amp;output=html" target="_blank">full comparison</a>)</li>
+	<li>Optional: <a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">HTML</a>, <a href="http://www.w3schools.com/css/css_intro.asp" target="_blank">CSS</a> coding to customize how the site displays</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 503px;" data-block-id="c2c1c75dec7fd7b8dd0dae586669960e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="http://programminghistorian.org/lessons/up-and-running-with-omeka" target="_blank">Programming Historian tutorial</a></li>
+	<li><a href="https://lilybeauvilliers.wordpress.com/2015/05/14/omeka-for-millenials/" target="_blank">Omeka for Millenials</a></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 609px;" data-block-id="ca42064d6d5dbf16534320efb4d0f1ec"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 27; font-size: 67%;">
+<p style="text-align:left">I've used <a href="https://wordpress.org/" target="_blank">WordPress.org</a> for a <a href="http://library.queensu.ca/virtual-exhibits/stereoscopic/" target="_blank">virtual exhibit</a> before but I'd still recommend Omeka.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 448px; left: 496px; top: 538px;" data-block-id="2fbbcadf672701ad9095817c79fd7942"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28; font-size: 50%; text-align: left;" dir="ui">
+<p>Jannecken Smucker and Charles Hardy (faculty), Robert Bennett, Kristine Geiger, William Hostmann, et al. (students)</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 584px;" data-block-id="851a0e35549edb8c0e56f4804292b8f9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 29; font-size: 50%; text-align: left;" dir="ui">
+<p>West Chester University</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 611px;" data-block-id="60cb61cc0ce6f7b05ea63b5d8759c7ac"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; font-size: 50%; text-align: left;" dir="ui">
+<p>Collaborative effort between <a href="http://goinnorth.org/about" target="_blank">two classes</a> of undergraduate and graduate students.</p>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 31px; height: auto;" data-block-id="7442213f59dc7e78ac51ba6170873b01"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 107%;" dir="ui" data-has-custom-html="">
+<h2>
+<span style="color:#E06666;"><a href="http://mrsdallowaymappingproject.weebly.com/index.html" target="_blank" style="color:#E06666;">Map: </a></span><a href="http://mrsdallowaymappingproject.weebly.com/index.html" target="_blank"><span>Mapping Mrs. Dalloway</span></a>
+</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 162px; height: auto;" data-block-id="c15c2c50a58ad3a483d250acdfcc674c"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 90%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 162px;" data-block-id="3943899a3d6a51241977d811982d76e5"><a class="sl-block-content" style="z-index: 11;" href="http://mrsdallowaymappingproject.weebly.com/" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589201/ezgif.com-video-to-gif__2_.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 324px; height: auto;" data-block-id="9b326f696f5aa622eb35acda757e964d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 411px; height: auto;" data-block-id="6e8e083b6120048b60452842f7db3fbe"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;">
+<p><strong>Get started</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 548px; height: auto;" data-block-id="72fdc8be6bbc53cb731e012426b34f1a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 15; text-align: left; font-size: 93%;">
+<p><strong>Get fancy</strong></p>
+</div></div>
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 428px; left: 0px; top: 197px;" data-block-id="ef671e646da0d9349a11611c57d3dd7a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24; font-size: 67%; text-align: left;">
+<p>A project that maps each character's walking route in <a href="https://en.wikipedia.org/wiki/Mrs_Dalloway"><em>Mrs. Dalloway</em></a>, along with brief descriptions and analyses of significant events during those walks.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 422px; left: 0px; top: 360px;" data-block-id="698ee19612be2620c0e3a8eaa2d076aa"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="http://www.imapbuilder.net/" target="_blank">iMap Builder</a></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 445px;" data-block-id="a856110ef9b7b769611530a936b8111f"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; font-size: 67%; text-align: left;" data-has-custom-html="">
+<p style="
+    margin-bottom: 0;
+"><span style="color:rgb(255, 255, 255);"><a href="https://www.google.com/mymaps/" target="_blank">Google My Maps</a> is free and easy.</span></p>
+
+<ul style="margin-top: 0;">
+	<li><a href="https://www.youtube.com/watch?v=S9Bl7tokt0g" target="_blank">YouTube tutorial</a></li>
+	<li>
+<a href="http://www.lib.uwaterloo.ca/locations/umd/digital/documents/GoogleMapsTutorial_2013.pdf" target="_blank">PDF tutorial</a> by U Waterloo Libraries</li>
+</ul>
+
+<p> </p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 422px; left: 0px; top: 584px;" data-block-id="38766c3c5ce92a077142223219a1bea9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 27; font-size: 67%; text-align: left;">
+<ul>
+	<li><span style="font-size:1.0em"><a href="http://neatline.org/" target="_blank">Neatline</a><span style="line-height:22.2299995422363px"> (used with Omeka)</span></span></li>
+	<li>
+<a href="http://www.arcgis.com/features/" target="_blank">ArcGIS</a>—<a href="http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=51" target="_blank">DeGroot's project</a> is a good example</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 468px; left: 492px; top: 531px;" data-block-id="69a3d69535ed9ca99225fb53f55f99f3"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28; font-size: 51%; text-align: left;" dir="ui">
+<p>Adam Erwood, London Lamb, Jasmine Perrett, Anjaly Poruthoor, and Manoj Vangala</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 468px; left: 492px; top: 572.5px;" data-block-id="550f8ed66b9d03af3e3e434f9fa2d987"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 29; font-size: 50%; text-align: left;" dir="ui">
+<p>Georgia Institute of Technology</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 468px; left: 492px; top: 594px;" data-block-id="88c62a428b34bc9447f22cfd1269f5c6"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; font-size: 50%; text-align: left;" dir="ui">
+<p>Collaborative project by students in Dr. Kathryn Crowther's<a href="https://literarylondonfall2011.wordpress.com/" target="_blank"> "Literary London" course</a></p>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 31px; height: auto;" data-block-id="f75931528a919bcec0c333d3d57264b1"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 107%;" dir="ui" data-has-custom-html="">
+<h2><span><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1hrA4j0QINvYO2wNoG0MCJa6HDbta3kPtu2pX_L-F1xc&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650" style="color:#E06666;" target="_blank">Timeline: History of GWG Plant</a></span></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 434px; left: 0px; top: 177px; height: auto;" data-block-id="4e2994f81ccc537e1f942591e9c1af70"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 93%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 177px;" data-block-id="542cd59764241a9f6920a6c3d19d4a7b"><a class="sl-block-content" style="z-index: 11;" href="" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589159/ezgif.com-video-to-gif__1_.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 434px; left: 0px; top: 315px; height: auto;" data-block-id="44a2d5727fbb0888aa9621c750d6723e"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 434px; left: 0px; top: 396px; height: auto;" data-block-id="0ba6b29a357005a3e6ec90a8569cb531"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;">
+<p><strong>Get started</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 434px; left: 0px; top: 502px; height: auto;" data-block-id="ceab474b000f3e056c2a97a052ac1bee"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 15; text-align: left; font-size: 93%;">
+<p><strong>Get fancy</strong></p>
+</div></div>
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 441px; left: 0px; top: 213px;" data-block-id="5788189b0cd923115bab719636911121"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24; font-size: 67%; text-align: left;" dir="ui">
+<p>A timeline chronicling the history of Edmonton's Great Western Garment Company (later a plant).</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 434px; left: 0px; top: 351px;" data-block-id="2c3333cca795aeeec48ef33c4943b7ec"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="http://timeline.knightlab.com/" target="_blank">Timeline.js</a></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 434px; left: 0px; top: 432px;" data-block-id="a774600719f97f1e9b3fc65afe51b16c"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="http://timeline.knightlab.com/" target="_blank">Written tutorial</a></li>
+	<li><a href="https://www.youtube.com/watch?v=vAWbm4gF9lU" target="_blank">Video tutorial</a></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 441px; left: 0px; top: 541px;" data-block-id="79d40ce19657c4dcc94fe3966474ef66"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 27; font-size: 67%; text-align: left;">
+<ul>
+	<li>
+<a href="https://timeglider.com/" target="_blank">Timeglider</a> for more control over how the timeline's points display</li>
+	<li>Combine the timeline with a map using <a href="https://code.google.com/p/timemap/" target="_blank">Timemap.js</a>
+</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 448px; left: 496px; top: 545px;" data-block-id="5920f012c942a5a9f096cca0480025e0"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28; font-size: 50%; text-align: left;" dir="ui">
+<p>Anonymous</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 568px;" data-block-id="e77b96119d3b69ef0fead2ac68cc8d1c"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 29; font-size: 50%; text-align: left;" dir="ui"><p>University of Alberta</p></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 464px; left: 496px; top: 590px;" data-block-id="91d4f47802ffa5c4faef8743ec209920"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; font-size: 50%; text-align: left;" dir="ui">
+<p>Assignment done for <a href="https://twitter.com/NvOrden" target="_blank">Nicholas Van Orden's</a> 1st Year <a href="http://digitalfictional.com/2015/04/21/english-121-here-and-now-projects/" target="_blank">English course</a></p>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 13px; height: auto;" data-block-id="6f4a03abe747d296c331bea951346c4d"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 98%;" dir="ui" data-has-custom-html="">
+<h2 style="line-height: 1.2em;"><a href="http://1890s.ca/Default.aspx" style="color: #E06666;" target="_blank">Digital Edition:<br>Yellow Nineties Online</a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 182px; height: auto;" data-block-id="403dfdd63c1b625d152bba5694fd87d1"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 93%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 182px;" data-block-id="5c59a232d6c34bb62e84356c5bdcbaf3"><a class="sl-block-content" style="z-index: 11;" href="http://www.1890s.ca/" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589255/ezgif.com-video-to-gif__5_.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 319px; height: auto;" data-block-id="8a74e9a3ddb1262b0a35f62774d7249b"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 453px; height: auto;" data-block-id="9eab91b1234afcc20f44172cd3ea0931"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;" dir="ui"><p><strong>Get started</strong></p></div></div>
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 218px;" data-block-id="00d7081b959110d49060fc09c48df456"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; font-size: 67%; text-align: left;" dir="ui">
+<p>A digital archive of <a href="https://en.wikipedia.org/wiki/The_Yellow_Book" target="_blank"><em>The Yellow Book</em></a>, related 19th-century periodicals, and a wealth of contextual material (biographies, reviews, etc.)</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 355px;" data-block-id="e702f46ca143bafa73eec381971dccb2"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; font-size: 67%; text-align: left;">
+<ul>
+	<li>
+<a href="http://www.tei-c.org/index.xml" target="_blank">TEI</a>: markup language for scholarly editing</li>
+	<li>
+<a href="http://www.w3schools.com/xsl/xsl_intro.asp" target="_blank">XSLT</a> or <a href="http://www.teibyexample.org/docs/software.htm?target=Publication" target="_blank">XML publication system</a>: I like the uber lightweight <a href="http://dcl.ils.indiana.edu/teibp/" target="_blank">TEI Boilerplate</a>
+</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 489px;" data-block-id="762eb7a1f0c49910200808cb793f1aeb"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 18; font-size: 67%; text-align: left;">
+<ul>
+	<li><a href="https://kirstynleuner.wordpress.com/2015/06/11/markup-theory-and-practice-with-the-tei-in-engl-53-06-womens-literature-and-technologies-of-transmission-12-130pm-52615-baker-library-dartmouth/" target="_blank">Introduction to the practice of markup</a></li>
+	<li><a href="http://www.teibyexample.org/" target="_blank">TEI by example</a></li>
+	<li>A TEI editor: <a href="http://www.oxygenxml.com/xml_editor/tei_editor.html" target="_blank">oXygen</a> is popular; <a href="http://www.teibyexample.org/docs/software.htm?target=Editors" target="_blank">try others</a>
+</li>
+</ul>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 464px; left: 496px; top: 553px;" data-block-id="c8404808b6235c435bacf586e4c90bc2"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 19; font-size: 50%; text-align: left;" dir="ui">
+<p>Dennis Denisoff &amp; Lorraine Janzen Kooistra (principal editors), plus a great deal more collaborators and research assistants</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 599px;" data-block-id="371dffc5a81385ad2120193a6b69fc76"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 20; font-size: 50%; text-align: left;" dir="ui">
+<p>Ryerson University, Toronto</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 625px;" data-block-id="c2d17a60aa409d7969ebdbe15f7329d5"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 21; font-size: 50%; text-align: left;" dir="ui">
+<p>Undergraduate, graduate, faculty collaboration (<a href="http://www.ryerson.ca/cdh/" target="_blank">CDH</a>-sponsored <a href="http://www.ryerson.ca/cdh/news-and-events/news-archive.html?center_uiwnewslist_start=0" target="_blank">undergraduate internship</a>)</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 588px; height: auto;" data-block-id="fe4e1df31c35e9d159cfd3f83c9422d4"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 22; text-align: left; font-size: 93%;">
+<p><strong>Alternatives</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 624px;" data-block-id="3ec40c7e5e53a0c38792f92f375bbdc7"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 23; font-size: 67%; text-align: left;" dir="ui">
+<p>It's not the proper way to do it, but <a href="http://scalar.usc.edu/" target="_blank">Scalar</a> can <a href="http://scalar.usc.edu/works/good-quarto-bad-quarto-1/index" target="_blank">do in a pinch</a> depending on what you want.</p>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 22px; height: auto;" data-block-id="8a36ecee0c43c257f0ceff02e9798b9f"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 98%;" dir="ui" data-has-custom-html="">
+<h2 style="line-height: 1.2em;"><a href="http://scalar.usc.edu/works/lgbt-history-at-bryn-mawr/index" style="color: #E06666;" target="_blank">Long-form, Media-Rich Narrative:<br>
+"We Are/We Have Always Been"</a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 2px; top: 200px; height: auto;" data-block-id="461631dc91d7f7e3922c75c98da4c505"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 93%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 200px;" data-block-id="7ac4d90c22d0c1161cda821761cb1923"><a class="sl-block-content" style="z-index: 11;" href="" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589274/ezgif.com-optimize.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 371px; height: auto;" data-block-id="b4146a6dd2bee1edd432f4098ad7f7af"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 93%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 1px; top: 515px; height: auto;" data-block-id="a09fcb80a8ba5394340f4f1298601d98"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 93%;" dir="ui"><p><strong>Get started</strong></p></div></div>
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 236px;" data-block-id="20764d1e9ffc73b75cfdf1c605a278b4"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 24; font-size: 67%; text-align: left;" dir="ui">
+<p>A multi-linear, multimodal history <span style="color:rgb(255, 255, 255); font-size:20.1000003814697px">(1970-2000) </span>of LGBT experiences at Bryn Mawr College that includes interviews, photographs, and documents.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 442px; left: 0px; top: 407px;" data-block-id="a5bfc9117264229703c13ea97340a203"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 25; font-size: 67%; text-align: left;">
+<ul>
+	<li>
+<a href="http://scalar.usc.edu/scalar/" target="_blank">Scalar</a>—multimedia authoring platform</li>
+	<li>Optional: web coding (<a href="http://www.w3schools.com/html/html_intro.asp" target="_blank">HTML</a>, <a href="http://www.w3schools.com/css/css_intro.asp" target="_blank">CSS</a>, <a href="http://www.w3schools.com/js/default.asp" target="_blank">JavaScript</a>) to control presentation</li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 404px; left: 0px; top: 551px;" data-block-id="cd9a6c8b278eaa578768e91fd532615d"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 26; font-size: 68%; text-align: left;">
+<ul>
+	<li><a href="https://www.youtube.com/watch?v=hzasOeplWgg" target="_blank">HASTAC Scholars webinar</a></li>
+	<li><a href="https://medium.com/@jistofjen/so-you-want-to-publish-your-academic-work-ae038eebea8d" target="_blank">"So You Want to Publish Your Academic Work"</a></li>
+	<li><a href="http://scalar.usc.edu/webinars/past-webinars/" target="_blank">More Scalar webinars</a></li>
+</ul>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 448px; left: 496px; top: 567px;" data-block-id="67136bd6b391ec81955876bb766faa5a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 28; font-size: 50%; text-align: left;" dir="ui"><p>Brenna Levitin</p></div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 496px; top: 593px;" data-block-id="b3d2d0dfe0d0255c16b446b07e295c38"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 29; font-size: 50%; text-align: left;" dir="ui">
+<p>Bryn Mawr College, Pennsylvania</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 464px; left: 496px; top: 620px;" data-block-id="742b633569efd5a3757f036feb935d02"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 31; font-size: 50%; text-align: left;" dir="ui">
+<p>Internship with <a href="http://tdh.brynmawr.edu/" target="_blank">Tri-Co Digital Humanities</a> at the <a href="http://greenfield.brynmawr.edu/" target="_blank">Albert M. Greenfield Digital Center for the History of Women's Education</a></p>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 24px; height: auto;" data-block-id="9758d35da232a228db9e4b11b7ad9740"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 93%;" dir="ui" data-has-custom-html="">
+<h2 style="line-height: 1.2em;"><a href="http://hedothepolice.org/" style="color: #E06666;" target="_blank">Computer-Aided Text Analysis:<br>
+He Do the Police in Different Voices</a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 195px; height: auto;" data-block-id="0082ae58e47cb9aa1ec69a70c52079d2"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 91%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 195px;" data-block-id="b1649962edca072013b47a5bcf0097e5"><a class="sl-block-content" style="z-index: 11;" href="" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589220/ezgif.com-video-to-gif__3_.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 326px; height: auto;" data-block-id="e0ee07e86464279517e578128d1576cf"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 91%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 456px; height: auto;" data-block-id="38009e69393ced8811a2ae7c3e8b4660"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 91%;" dir="ui"><p><strong>Get started</strong></p></div></div>
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 428px; left: 0px; top: 230px;" data-block-id="452a541551d861461cabf18767e6d0eb"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; font-size: 65%; text-align: left;" dir="ui">
+<p>An analysis of different voices in <em><a href="https://en.wikipedia.org/wiki/The_Waste_Land" target="_blank">The Waste Land</a> </em>using a custom algorithm, among other techniques.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 428px; left: 0px; top: 361px;" data-block-id="e5f0ce5dc975a0adc64a9d5a75d5fa4a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; font-size: 65%; text-align: left;">
+<p>A custom algorithm adapted from existing plagiarism detection and text segmentation techniques.</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 428px; left: 0px; top: 491px;" data-block-id="dfea31bc9dece85f96dc7bd373ed1924"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; font-size: 65%; text-align: left;">
+<p>There are <a href="http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/" target="_blank">many kinds of textual analysis</a>. Newbies often start with <a href="http://voyant-tools.org/" target="_blank">Voyant Tools</a>. See <a href="http://docs.voyant-tools.org/" target="_blank">documentation</a> and <a href="https://www.youtube.com/watch?v=00V3Xbr1XA4&amp;list=PLDCADF35691404F54&amp;index=10" target="_blank">video tutorials</a>.</p>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 468px; left: 492px; top: 567px;" data-block-id="cf18cb51e08144efad681979a2145116"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 19; font-size: 50%; text-align: left;" dir="ui">
+<p>Brook, Hammond, Hirst, and the class of <a href="http://individual.utoronto.ca/adamhammond/" target="_blank">ENG287 "The Digital Text"</a></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 492px; top: 591px;" data-block-id="0a1008d49b8d134c93b761223abe64d5"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 20; font-size: 50%; text-align: left;" dir="ui">
+<p>University of Toronto</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 492px; top: 615px;" data-block-id="59bdcfddd1c81f719a31f607d1f17c87"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 21; font-size: 50%; text-align: left;" dir="ui">
+<p><a href="http://hedothepolice.org/about/eng287.html" target="_blank">Undergraduate class collaboration</a> with instructors</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 586px; height: auto;" data-block-id="6ec6996d591247b68922abfc4ded5a0a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 22; text-align: left; font-size: 91%;" dir="ui">
+<p><strong>Get fancy</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 621px;" data-block-id="6f4817b26edd122f33ac31183e56533a"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 23; font-size: 65%; text-align: left;" dir="ui" data-has-custom-html="">
+<ul>
+	<li>
+<a href="http://mallet.cs.umass.edu/index.php" target="_blank">MALLET</a> or other tools in <a href="http://dirtdirectory.org/categories/text-mining" target="_blank">DiRT</a> or <a href="http://www.tapor.ca/" target="_blank">TAPoR</a>
+</li>
+	<li>Code something in <a href="https://www.python.org/" target="_blank">Python</a> or <a href="http://www.r-project.org/" target="_blank">R</a>
+</li>
+</ul>
+</div></div></section><section><div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 25px; height: auto;" data-block-id="d5a57122c2e9a7d1e1dd75a9d919239b"><div class="sl-block-content" data-placeholder-tag="h2" data-placeholder-text="Title Text" style="text-align: center; color: rgb(224, 102, 102); z-index: 10; font-size: 93%;" dir="ui" data-has-custom-html="">
+<h2 style="line-height: 1.2em;"><a href="http://ryanpickering.github.io/Residential-School-Online-Response/startbootstrap-grayscale-1.0.3/index.html" style="color: #E06666;" target="_blank">Data Visualization:<br>
+Searching for Residential Schools</a></h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 195px; height: auto;" data-block-id="9aa7ef1d257cd50ee31389b555b27148"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 12; text-align: left; font-size: 91%;">
+<p><strong>What it is</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="image" style="width: 480px; height: 360px; left: 480px; top: 195px;" data-block-id="ac8077cd3e8f84ec553ac1e0726d3f4c"><a class="sl-block-content" style="z-index: 11;" href="" target="_blank"><img style="" data-natural-width="480" data-natural-height="360" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/353068/images/1589235/ezgif.com-video-to-gif__4_.gif"></a></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 332px; height: auto;" data-block-id="c2e1d04c1e16697fc14a153a3c4fd9e9"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 13; text-align: left; font-size: 91%;">
+<p><strong>What you'd need</strong></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="width: 444px; left: 0px; top: 441px; height: auto;" data-block-id="2df5571e17d82081b29d01d826953385"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec metus justo. Aliquam erat volutpat." style="z-index: 14; text-align: left; font-size: 91%;" dir="ui"><p><strong>Get started</strong></p></div></div>
+
+
+
+
+
+
+
+
+
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 424px; left: 0px; top: 230px;" data-block-id="6ba9e1f86203ab6dc278aeaeefe9becd"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 15; font-size: 65%; text-align: left;" dir="ui">
+<p><span style="font-size:1.0em">An analysis of Google search trends for "residential schools"—who is searching and why?</span></p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 454px; left: 0px; top: 367px;" data-block-id="c74f0846c04ef82d50a45b60d4e479f1"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 16; font-size: 65%; text-align: left;">
+<ul>
+	<li><span style="font-size:1.0em"><a href="https://www.google.ca/trends/" target="_blank">Google Trends</a></span></li>
+	<li><span style="font-size:1.0em"><a href="https://pages.github.com/" target="_blank">Github Pages</a>, <a href="http://startbootstrap.com/" target="_blank">Start Bootstrap</a> to publish</span></li>
+</ul>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 444px; left: 0px; top: 476px;" data-block-id="83b96c92ff285581b5ff3561621b33b8"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 17; font-size: 65%; text-align: left;" data-has-custom-html="">
+<ul style="line-height:1.2em;">
+	<li>
+<a href="http://dh101.humanities.ucla.edu/?page_id=40" target="_blank">Intro to Visualization</a> from UCLA's DH101</li>
+	<li>Tools to try:
+	<ul style="line-height:1.2em;">
+		<li><a href="https://public.tableau.com/s/" target="_blank">Tableau Public</a></li>
+		<li><a href="https://support.google.com/fusiontables/answer/184641?hl=en" target="_blank">Google Fusion Tables</a></li>
+		<li><a href="http://palladio.designhumanities.org/#/" target="_blank">Palladio</a></li>
+	</ul>
+	</li>
+	<li>
+<a href="https://en.wikipedia.org/wiki/Social_network_analysis" target="_blank">Network analysis</a> using <a href="https://gephi.github.io/" target="_blank">Gephi</a>:
+	<ul>
+		<li><a href="http://www.scottbot.net/HIAL/?p=6279" target="_blank">Demystifying networks</a></li>
+		<li><a href="http://www.kateto.net/wordpress/wp-content/uploads/2012/12/COMM645%20-%20Gephi%20Handout.pdf" target="_blank">Gephi tutorial (PDF)</a></li>
+	</ul>
+	</li>
+</ul>
+</div></div>
+
+<div class="sl-block" data-block-type="text" style="height: auto; width: 448px; left: 499px; top: 566px;" data-block-id="497d2a77c7723d4b17b08a20d3bc1f61"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 19; font-size: 50%; text-align: left;" dir="ui">
+<p>Ryan Pickering</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 426px; left: 499px; top: 590px;" data-block-id="4c76c18fa287546598a9117108358977"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 20; font-size: 50%; text-align: left;" dir="ui">
+<p>Carleton University, Ottawa</p>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; width: 461px; left: 499px; top: 615px;" data-block-id="98412376c9e729f1427ae8c5401b45bd"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 21; font-size: 50%; text-align: left;" dir="ui">
+<p>Assignment for <a href="https://carleton.ca/history/undergraduate/courses/3000-level-2/hist-3907-o-transnational-or-thematic-topic-crafting-digital-history/" target="_blank">"Crafting Digital History"</a> (<a href="https://twitter.com/hashtag/hist3907b?src=hash" target="_blank">#hist3907b</a>) course, taught by <a href="https://twitter.com/electricarchaeo" target="_blank">Shawn Graham</a></p>
+</div></div>
+
+</section><section><div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 31px; height: auto;" data-block-id="8fb3a9a655ab821b5c233a47772bc8cd"><div class="sl-block-content" data-placeholder-tag="h1" data-placeholder-text="Title Text" style="z-index: 11; text-align: center; color: rgb(224, 102, 102); font-size: 107%;">
+<h2>More Resources</h2>
+</div></div>
+<div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 889px; left: 33px; top: 178px;" data-block-id="f831836d3330662dd213d13841d68ce6"><div class="sl-block-content" data-placeholder-tag="p" data-placeholder-text="Text" style="z-index: 12; text-align: left;" data-has-custom-html="">
+<ul>
+	<li style="padding: 0.20em;">The original <a href="http://miriamposner.com/blog/how-did-they-make-that/" target="_blank">"How Did They Make That?"</a> plus <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/" target="_blank">video</a>
+</li>
+	<li style="padding: 0.20em;"><a href="https://medium.com/dh-tools-for-beginners" target="_blank">DH Tools for Beginners</a></li>
+	<li style="padding: 0.20em;"><a href="http://dh101.humanities.ucla.edu/?page_id=8" target="_blank">DH101: Intro to Digital Humanities</a></li>
+	<li style="padding: 0.20em;"><a href="http://www.hybridpedagogy.com/journal/introducing-digital-humanities-work-undergraduates-overview/" target="_blank">Introducing Digital Humanities Work to Undergraduates:<br> An Overview</a></li>
+	<li style="padding: 0.20em;"><a href="https://twitter.com/uvicdhum" target="_blank">UVic DHum's Twitter account</a></li>
+</ul>
+</div></div>
+</section>
+			</div>
+		</div>
+
+
+		
+<script>
+	var SLConfig = {"current_user":{"id":353068,"username":"tiffchan","name":null,"description":null,"thumbnail_url":"https://www.gravatar.com/avatar/4b4957a461a4c3d1f1ff8d5fe37c9539?s=140\u0026d=https%3A%2F%2Fs3.amazonaws.com%2Fstatic.slid.es%2Fimages%2Fdefault-profile-picture.png","pro":false,"enterprise":false,"enterprise_manager":false,"settings":{"id":186575,"present_controls":true,"present_upsizing":true,"editor_grid":true,"editor_snap":true,"developer_mode":false},"registered":true,"email":"tiff.chan29@...(line truncated)...
+</script>
+
+		<script>
+			!function(e,t){"function"==typeof define&&define.amd?define(function(){return e.Reveal=t(),e.Reveal}):"object"==typeof exports?module.exports=t():e.Reveal=t()}(this,function(){"use strict";function e(e){if(t(),Hr.transforms2d||Hr.transforms3d){Dr.wrapper=document.querySelector(".reveal"),Dr.slides=document.querySelector(".reveal .slides"),window.addEventListener("load",W,!1);var n=gr.getQueryHash();"undefined"!=typeof n.dependencies&&delete n.dependencies,h(Mr,e),h(Mr,n),q(),r()}else{document.body.setAtt...(line truncated)...
+else if(wr){var t="/",r=wr.getAttribute("id");r&&(r=r.toLowerCase(),r=r.replace(/[^a-zA-Z0-9\-\_\:\.]/g,"")),"string"==typeof r&&r.length?t="/"+r:((mr>0||yr>0)&&(t+=mr),yr>0&&(t+="/"+yr)),window.location.hash=t}}function xt(e){var t,r=mr,n=yr;if(e){var a=_(e),i=a?e.parentNode:e,o=g(Dr.wrapper.querySelectorAll(Sr));r=Math.max(o.indexOf(i),0),n=void 0,a&&(n=Math.max(g(e.parentNode.querySelectorAll("section")).indexOf(e),0))}if(!e&&wr){var s=wr.querySelectorAll(".fragment").length>0;if(s){var c=wr.querySelecto...(line truncated)...
+		</script>
+		<script>
+			!function(){if("function"==typeof window.addEventListener)for(var e=document.querySelectorAll("pre code"),t=0,r=e.length;r>t;t++){var a=e[t];a.hasAttribute("data-trim")&&"function"==typeof a.innerHTML.trim&&(a.innerHTML=a.innerHTML.trim()),a.addEventListener("focusout",function(e){hljs.highlightBlock(e.currentTarget)},!1)}}(),!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define&&define.amd&&define("hljs",[],function(){return window.hljs}))}(function(e){function...(line truncated)...
+return{cI:!0,l:t,k:{keyword:r,built_in:a},c:[e.CLCM,e.NM,n,o,{cN:"function",b:"(\u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0430|\u0444\u0443\u043d\u043a\u0446\u0438\u044f)",e:"$",l:t,k:"\u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u044f",c:[e.inherit(e.TM,{b:t}),{cN:"tail",eW:!0,c:[{cN:"params",b:"\\(",e:"\\)",l:t,k:"\u0437\u043d\u0430\u0447",c:[n,o]},{cN:"export",b:"\u044d\u043a\u0441\u043f\u043e\u0440\u0442",eW:!0,l:t,k:"\u044d\u043a\u0441\u043f\u043e\...(line truncated)...
+return b.c=[e.C("comment",""),f,g],g.c=h,d.c=h,{aliases:["clj"],i:/\S/,c:[b,s,p,u,l,m,d,o,c]}}),hljs.registerLanguage("typescript",function(e){var t={keyword:"in if for while finally var new function|0 do return void else break catch instanceof with throw case default try this switch continue typeof delete let yield const class public private get set super interface extendsstatic constructor implements enum export import declare type protected",literal:"true false null undefined NaN Infinity",built_in:"eval...(line truncated)...
+}),hljs.registerLanguage("apache",function(e){var t={cN:"number",b:"[\\$%]\\d+"};return{aliases:["apacheconf"],cI:!0,c:[e.HCM,{cN:"tag",b:"</?",e:">"},{cN:"keyword",b:/\w+/,r:0,k:{common:"order deny allow setenv rewriterule rewriteengine rewritecond documentroot sethandler errordocument loadmodule options header listen serverroot servername"},starts:{e:/$/,r:0,k:{literal:"on off all"},c:[{cN:"sqbracket",b:"\\s\\[",e:"\\]$"},{cN:"cbracket",b:"[\\$%]\\{",e:"\\}",c:["self",t]},t,e.QSM]}}],i:/\S/}}),hljs.regist...(line truncated)...
+}),hljs.registerLanguage("nimrod",function(e){return{aliases:["nim"],k:{keyword:"addr and as asm bind block break|0 case|0 cast const|0 continue|0 converter discard distinct|10 div do elif else|0 end|0 enum|0 except export finally for from generic if|0 import|0 in include|0 interface is isnot|10 iterator|10 let|0 macro method|10 mixin mod nil not notin|10 object|0 of or out proc|10 ptr raise ref|10 return shl shr static template|10 try|0 tuple type|0 using|0 var|0 when while|0 with without xor yield",litera...(line truncated)...
+}),hljs.registerLanguage("powershell",function(e){var t={b:"`[\\s\\S]",r:0},r={cN:"variable",v:[{b:/\$[\w\d][\w\d_:]*/}]},a={cN:"string",b:/"/,e:/"/,c:[t,r,{cN:"variable",b:/\$[A-z]/,e:/[^A-z]/}]},i={cN:"string",b:/'/,e:/'/};return{aliases:["ps"],l:/-?[A-z\.\-]+/,cI:!0,k:{keyword:"if else foreach return function do while until elseif begin for trap data dynamicparam end break throw param continue finally in switch exit filter try process catch",literal:"$null $true $false",built_in:"Add-Content Add-History ...(line truncated)...
+}),hljs.registerLanguage("q",function(e){var t={keyword:"do while select delete by update from",constant:"0b 1b",built_in:"neg not null string reciprocal floor ceiling signum mod xbar xlog and or each scan over prior mmu lsq inv md5 ltime gtime count first var dev med cov cor all any rand sums prds mins maxs fills deltas ratios avgs differ prev next rank reverse iasc idesc asc desc msum mcount mavg mdev xrank mmin mmax xprev rotate distinct group where flip type key til get value attr cut set upsert raze un...(line truncated)...
+return{aliases:["mk","mak"],c:[e.HCM,{b:/^\w+\s*\W*=/,rB:!0,r:0,starts:{cN:"constant",e:/\s*\W*=/,eE:!0,starts:{e:/$/,r:0,c:[t]}}},{cN:"title",b:/^[\w]+:\s*$/},{cN:"phony",b:/^\.PHONY:/,e:/$/,k:".PHONY",l:/[\.\w]+/},{b:/^\t+/,e:/$/,r:0,c:[e.QSM,t]}]}}),hljs.registerLanguage("dockerfile",function(e){return{aliases:["docker"],cI:!0,k:{built_ins:"from maintainer cmd expose add copy entrypoint volume user workdir onbuild run env"},c:[e.HCM,{k:{built_in:"run cmd entrypoint volume add copy workdir onbuild"},b:/^ ...(line truncated)...
+		</script>
+		<script>
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				mouseWheel: false,
+
+				autoSlide: SLConfig.deck.auto_slide_interval || 0,
+				autoSlideStoppable: true,
+
+				rollingLinks: false,
+				center: SLConfig.deck.center || false,
+				loop: SLConfig.deck.should_loop || false,
+				rtl: SLConfig.deck.rtl || false,
+
+				transition: SLConfig.deck.transition,
+				backgroundTransition: SLConfig.deck.background_transition
+			});
+
+			if( window.hljs ) hljs.initHighlightingOnLoad();
+
+		</script>
+
+		
+
+	</body>
+</html>
